@@ -6,4 +6,4 @@
 **NumPy Operations** - Apply various operations to NumPy arrays.  
 
 
-**NumPy Play** - my additional notebook to play around with NumPy arrays.
+**NumPy Play** - My additional notebook to play around with NumPy arrays.
