@@ -1,2 +1,4 @@
-# Udemy_Python_4_DS_-_ML
-Jupyter Notebooks and other files from Udemy's 'Python for Data Science and Machine Learning'
+# Udemy Course
+## Python for Data Science and Machine Learning
+
+This repository contains my Jupyter Notebooks and files that I created whilst completing this course.
