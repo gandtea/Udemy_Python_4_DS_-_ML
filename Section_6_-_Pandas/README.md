@@ -2,7 +2,7 @@
 
 ### Contents
 
-**Pandas Series** - Basic introduction to series in Pandas (one column of a table with an index). 
+**Pandas Series** - Basic introduction to series in Pandas (one column of a table with an index).  
 **Pandas DataFrames** - Introduction to dataframes in Pandas - similar to a tables.  
 **Pandas Missing Data** - Various methods in dealing with missing data.  
 **Pandas GroupBy** - How to sort data in dataframes.  
